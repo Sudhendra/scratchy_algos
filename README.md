@@ -1,2 +1,5 @@
 # scratchy_algos
-Algorithms implemented from scratch &amp; provide a package to access them.
+
+Here, I implement multiple well known algorithms from scratch and provide a package to readily implement them & utilize them.
+
+I also plan to provide examples of each algorithm after implementation.
